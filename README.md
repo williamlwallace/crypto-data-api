@@ -1,2 +1,4 @@
 # crypto-data-api
-API for getting crypto data
+API built with node.js for getting crypto data
+
+Uses data from https://coinmarketcap.com/api/
